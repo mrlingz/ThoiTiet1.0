@@ -1,0 +1,4 @@
+#Wed Apr 10 04:42:41 ICT 2019
+base.0=E\:\\ThoiTiet1.0\\ThoiTiet1.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
